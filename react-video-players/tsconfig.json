@@ -22,7 +22,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "components/player/player.jsx", "components/player/player.jsx", "components/react-player/react-player.jsx"  ],
   "exclude": [
     "node_modules"
   ]

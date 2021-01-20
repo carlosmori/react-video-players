@@ -29,7 +29,7 @@ const VideoJs: React.FC<Props> = props => {
             // controls: false,
             sources: [
                 {
-                    src: "https://stream.mux.com/fPdk4PQ8DphO6dJQO8GHhQjj3bl02xBqb8RM2C9I02UZ00.m3u8",
+                    src: "https://stream.mux.com/013Z4TWLev8u61JmoXyx5q02yABUq9L3hR7se1b102V3og.m3u8",
                     type: "application/x-mpegURL"
                 }
             ],
